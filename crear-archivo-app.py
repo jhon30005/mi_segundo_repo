@@ -1,0 +1,2 @@
+
+print("hola desde la terminal")
